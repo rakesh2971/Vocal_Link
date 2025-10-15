@@ -1,0 +1,7 @@
+{
+  "name": "VocalLink",
+  "description": "An AI-powered application to extract text from images containing Nepali or Sinhalese literature and translate it into English, making it accessible to a global audience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
